@@ -68,7 +68,7 @@ This fight heavily utilizes punishing area-of-effect mechanics but is still very
 .img:https://i.imgur.com/DL8fq7i.jpg
 
 .
-When the wyrmhole spawns, it will deal continuous damage to anyone standing in it. Step away and continue dpsing until the Neutron Star spawns. This will follow the player around and must be lured into the wyrmhole. If the Neutron Star touches a player, it will explode, dealing 5000 damage and it is highly recommended to teleport out and restart the fight in this case. The wymhole will become stabilized and turn white if this mechanic is dealt with properly, allowing you to stand in it and deal increased damage to Astellarn for it's duration.
+When the wyrmhole spawns, it will deal continuous damage to anyone standing in it. Step away and continue dpsing until the Neutron Star spawns. This will follow the player around and must be lured into the wyrmhole. If the Neutron Star touches a player, it will explode, dealing 5000 damage and it is highly recommended to teleport out and restart the fight in this case. The wyrmhole will become stabilized and turn white if this mechanic is dealt with properly, allowing you to stand in it and deal increased damage to Astellarn for it's duration.
 
 The celestial rain will begin once the boss reaches 200,000 hp. This will spawn a continuous rain in a random quadrant that deals increasing damage as long as it is stood in. This will change quadrants occasionally and will only be a major issue if the wyrmhole was placed improperly.
 
